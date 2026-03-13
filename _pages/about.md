@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 😎 Hi, I'm Phoebe!
+
 I am an undergraduate CS student at the University of Toronto. I am interested in ML and its applications in healthcare. Aside from that, I am also curious about topics in discrete math.
 I am actively seeking for opportunities and collaborations! If my background interests you, please feel free to reach out at [phoebe.kuang@mail.utoronto.ca].
 
@@ -49,7 +51,7 @@ I am actively seeking for opportunities and collaborations! If my background int
 - *2025.09*, Elizabeth Kingstone Scholarship 
 - *2024.09*, University of Toronto Scholar + Drew Thompson Scholarship
 
-# 📖 Educations
+# 📖 Education
 - *2024.09 - now*, CS Spec./Math Maj./Stats Min. @ University of Toronto, Toronto, Canada.
 - *2021.09 - 2024.06*, high school student @ Pickering College, Newmarket, Canada.
 
