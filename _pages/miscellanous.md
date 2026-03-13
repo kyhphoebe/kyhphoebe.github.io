@@ -8,7 +8,7 @@ author_profile: true
 
 # 🧗‍♀️ A Note of Gratitude
 
-No milestone is ever reached alone. I am deeply thankful to the incredible mentors, educators, friends, and family who have supported my academic journey and personal growth. Your wisdom, patience, and encouragement have shaped everything I do, and I remain committed to paying that mentorship forward.
+No milestone is ever reached alone. I am deeply thankful to the incredible mentors, educators, friends, and family who have supported my academic journey and personal growth. Your wisdom, patience, and encouragement have shaped everything I do, and I remain committed to paying that kindness forward to the community around me.
 
 <br>
 
@@ -18,7 +18,7 @@ No milestone is ever reached alone. I am deeply thankful to the incredible mento
 
 - My legal name is Yuhan Kuang (邝妤涵), but just call me Phoebe. The first two characters of my Chinese name are quite uncommon and even some of my Chinese teachers couldn't pronounce them right.
 
-- I like sports! I play badminton (need practice) and I figure skate (kinda bad at it now). 
+- I like sports! I play badminton (need practice) and I figure skate (kinda bad at it now). I also enjoy watching sport games and competitions.
 
 - During my free time, I like tasting all kinds of food, going to kareoke, or just wandering around.
 
