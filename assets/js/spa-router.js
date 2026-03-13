@@ -25,6 +25,9 @@ document.addEventListener("DOMContentLoaded", () => {
   
           // Update the browser's URL bar so history/back buttons still work
           window.history.pushState({}, "", targetUrl);
+
+          // Jump to the top of the page
+          window.scrollTo(0, 0);
   
         } catch (error) {
           console.error("Failed to fetch new page:", error);

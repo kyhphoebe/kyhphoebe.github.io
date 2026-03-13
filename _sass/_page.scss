@@ -22,6 +22,7 @@
     @include prefix(0.5 of 12);
     @include suffix(0 of 12);
   }
+  min-height: 100vh;
 
   .page__inner-wrap {
     @include full();
