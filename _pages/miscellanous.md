@@ -6,6 +6,12 @@ author_profile: true
 
 <span class='anchor'></span>
 
+# 🧗‍♀️ A Note of Gratitude
+
+No milestone is ever reached alone. I am deeply thankful to the incredible mentors, educators, friends, and family who have supported my academic journey and personal growth. Your wisdom, patience, and encouragement have shaped everything I do, and I remain committed to paying that mentorship forward.
+
+<br>
+
 # 🚀 Random Facts About Phoebe
 
 - I was born and raised in Beijing, China and I moved to Canada after middle school. I teleport to random locations in Beijing for random intervals during the summer (happiest times).
