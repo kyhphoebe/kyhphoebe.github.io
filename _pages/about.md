@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😎 Hi, I'm Phoebe!
+# 😎 Hi, this is Phoebe!
 
 I am an undergraduate CS student at the University of Toronto. I am interested in ML and its applications in healthcare. Aside from that, I am also curious about topics in discrete math.
 I am actively seeking for opportunities and collaborations! If my background interests you, please feel free to reach out at [phoebe.kuang@mail.utoronto.ca].
@@ -28,7 +28,7 @@ I am actively seeking for opportunities and collaborations! If my background int
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 I will be working with Prof. Alex Mariakakis this summer to develop an interactive dashboard for AtriumDB!  
+- *2026.03*: I will be working with Prof. Alex Mariakakis this summer to develop an interactive dashboard for AtriumDB!  
 
 <!--
 # 📝 Publications 
@@ -48,12 +48,12 @@ I am actively seeking for opportunities and collaborations! If my background int
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2026.03*, Department of Computer Science (DCS) Award
 - *2025.09*, Elizabeth Kingstone Scholarship 
 - *2024.09*, University of Toronto Scholar + Drew Thompson Scholarship
 
-# 📖 Education
+# 🏫 Education
 - *2024.09 - now*, CS Spec./Math Maj./Stats Min. @ University of Toronto, Toronto, Canada.
 - *2021.09 - 2024.06*, high school student @ Pickering College, Newmarket, Canada.
 
